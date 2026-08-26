@@ -1,0 +1,2 @@
+VERSION = "1.0.0"
+MAX_HISTORY = 5
